@@ -14,3 +14,6 @@ npm install
 npm run dev
 ```
 work with your project
+
+
+![shadcn](https://github.com/user-attachments/assets/17d89cc0-e138-490b-b1b8-389cd4e9f06f)
